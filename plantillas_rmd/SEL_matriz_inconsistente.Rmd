@@ -32,9 +32,9 @@ Question
 
 Considere el siguiente sistema de ecuaciones lineales ( **SEL** ):
 
-$$\begin{cases} `r k`x + `r k`y + 2z = `r a` + 2y-`r k`z\\
-                 `r m`z + `r m`x + `r m`y = `r b` + 3x - 3y \\
-                `r p`y + `r p`z + x = `r c` + z - `r p`x
+$$\begin{cases} `r k`x + (`r k`)y + 2z = `r a` + 2y-(`r k`)z\\
+                 `r m`z + (`r m`)x + (`r m`)y = `r b` + 3x - 3y \\
+                `r p`y + (`r p`)z + x = `r c` + z - (`r p`)x
                 \end{cases}$$
 
 Answerlist

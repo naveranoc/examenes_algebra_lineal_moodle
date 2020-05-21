@@ -16,9 +16,9 @@
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 4x + 4y + 2z = 4 + 2y-4z\\
-                 -3z + -3x + -3y = 12 + 3x - 3y \\
-                -1y + -1z + x = -4 + z - -1x
+<p><span class="math display">\[\begin{cases} 4x + (4)y + 2z = 4 + 2y-(4)z\\
+                 -3z + (-3)x + (-3)y = 12 + 3x - 3y \\
+                -1y + (-1)z + x = -4 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -120,9 +120,9 @@ True.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = 20 + 2y-6z\\
-                 -6z + -6x + -6y = -21 + 3x - 3y \\
-                -1y + -1z + x = 2 + z - -1x
+<p><span class="math display">\[\begin{cases} 6x + (6)y + 2z = 20 + 2y-(6)z\\
+                 -6z + (-6)x + (-6)y = -21 + 3x - 3y \\
+                -1y + (-1)z + x = 2 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -224,9 +224,9 @@ True.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} -2x + -2y + 2z = -2 + 2y--2z\\
-                 6z + 6x + 6y = 0 + 3x - 3y \\
-                -1y + -1z + x = 3 + z - -1x
+<p><span class="math display">\[\begin{cases} -2x + (-2)y + 2z = -2 + 2y-(-2)z\\
+                 6z + (6)x + (6)y = 0 + 3x - 3y \\
+                -1y + (-1)z + x = 3 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -328,9 +328,9 @@ True.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} -2x + -2y + 2z = -10 + 2y--2z\\
-                 6z + 6x + 6y = 6 + 3x - 3y \\
-                -1y + -1z + x = 5 + z - -1x
+<p><span class="math display">\[\begin{cases} -2x + (-2)y + 2z = -10 + 2y-(-2)z\\
+                 6z + (6)x + (6)y = 6 + 3x - 3y \\
+                -1y + (-1)z + x = 5 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -432,9 +432,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 2x + 2y + 2z = 8 + 2y-2z\\
-                 -6z + -6x + -6y = -3 + 3x - 3y \\
-                1y + 1z + x = -3 + z - 1x
+<p><span class="math display">\[\begin{cases} 2x + (2)y + 2z = 8 + 2y-(2)z\\
+                 -6z + (-6)x + (-6)y = -3 + 3x - 3y \\
+                1y + (1)z + x = -3 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -536,9 +536,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} -2x + -2y + 2z = -6 + 2y--2z\\
-                 6z + 6x + 6y = 6 + 3x - 3y \\
-                -1y + -1z + x = 3 + z - -1x
+<p><span class="math display">\[\begin{cases} -2x + (-2)y + 2z = -6 + 2y-(-2)z\\
+                 6z + (6)x + (6)y = 6 + 3x - 3y \\
+                -1y + (-1)z + x = 3 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -640,9 +640,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = -8 + 2y-6z\\
-                 -6z + -6x + -6y = 9 + 3x - 3y \\
-                -1y + -1z + x = 2 + z - -1x
+<p><span class="math display">\[\begin{cases} 6x + (6)y + 2z = -8 + 2y-(6)z\\
+                 -6z + (-6)x + (-6)y = 9 + 3x - 3y \\
+                -1y + (-1)z + x = 2 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -744,9 +744,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = 0 + 2y-0z\\
-                 -3z + -3x + -3y = 0 + 3x - 3y \\
-                1y + 1z + x = 0 + z - 1x
+<p><span class="math display">\[\begin{cases} 0x + (0)y + 2z = 0 + 2y-(0)z\\
+                 -3z + (-3)x + (-3)y = 0 + 3x - 3y \\
+                1y + (1)z + x = 0 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -848,9 +848,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = 12 + 2y-6z\\
-                 -6z + -6x + -6y = -15 + 3x - 3y \\
-                -1y + -1z + x = 3 + z - -1x
+<p><span class="math display">\[\begin{cases} 6x + (6)y + 2z = 12 + 2y-(6)z\\
+                 -6z + (-6)x + (-6)y = -15 + 3x - 3y \\
+                -1y + (-1)z + x = 3 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -952,9 +952,9 @@ True.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = -4 + 2y-0z\\
-                 -3z + -3x + -3y = -18 + 3x - 3y \\
-                1y + 1z + x = 3 + z - 1x
+<p><span class="math display">\[\begin{cases} 0x + (0)y + 2z = -4 + 2y-(0)z\\
+                 -3z + (-3)x + (-3)y = -18 + 3x - 3y \\
+                1y + (1)z + x = 3 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -1056,9 +1056,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 2x + 2y + 2z = 6 + 2y-2z\\
-                 -6z + -6x + -6y = -18 + 3x - 3y \\
-                1y + 1z + x = -1 + z - 1x
+<p><span class="math display">\[\begin{cases} 2x + (2)y + 2z = 6 + 2y-(2)z\\
+                 -6z + (-6)x + (-6)y = -18 + 3x - 3y \\
+                1y + (1)z + x = -1 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -1160,9 +1160,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 4x + 4y + 2z = 14 + 2y-4z\\
-                 -3z + -3x + -3y = 3 + 3x - 3y \\
-                -1y + -1z + x = -8 + z - -1x
+<p><span class="math display">\[\begin{cases} 4x + (4)y + 2z = 14 + 2y-(4)z\\
+                 -3z + (-3)x + (-3)y = 3 + 3x - 3y \\
+                -1y + (-1)z + x = -8 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -1264,9 +1264,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 4x + 4y + 2z = -6 + 2y-4z\\
-                 -3z + -3x + -3y = -3 + 3x - 3y \\
-                -1y + -1z + x = 4 + z - -1x
+<p><span class="math display">\[\begin{cases} 4x + (4)y + 2z = -6 + 2y-(4)z\\
+                 -3z + (-3)x + (-3)y = -3 + 3x - 3y \\
+                -1y + (-1)z + x = 4 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -1368,9 +1368,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = -4 + 2y-0z\\
-                 -3z + -3x + -3y = 18 + 3x - 3y \\
-                1y + 1z + x = -4 + z - 1x
+<p><span class="math display">\[\begin{cases} 0x + (0)y + 2z = -4 + 2y-(0)z\\
+                 -3z + (-3)x + (-3)y = 18 + 3x - 3y \\
+                1y + (1)z + x = -4 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -1472,9 +1472,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 4x + 4y + 2z = -4 + 2y-4z\\
-                 -3z + -3x + -3y = 12 + 3x - 3y \\
-                -1y + -1z + x = 1 + z - -1x
+<p><span class="math display">\[\begin{cases} 4x + (4)y + 2z = -4 + 2y-(4)z\\
+                 -3z + (-3)x + (-3)y = 12 + 3x - 3y \\
+                -1y + (-1)z + x = 1 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -1576,9 +1576,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 4x + 4y + 2z = 10 + 2y-4z\\
-                 -3z + -3x + -3y = -3 + 3x - 3y \\
-                -1y + -1z + x = -5 + z - -1x
+<p><span class="math display">\[\begin{cases} 4x + (4)y + 2z = 10 + 2y-(4)z\\
+                 -3z + (-3)x + (-3)y = -3 + 3x - 3y \\
+                -1y + (-1)z + x = -5 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -1680,9 +1680,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} -6x + -6y + 2z = -42 + 2y--6z\\
-                 6z + 6x + 6y = 30 + 3x - 3y \\
-                1y + 1z + x = 6 + z - 1x
+<p><span class="math display">\[\begin{cases} -6x + (-6)y + 2z = -42 + 2y-(-6)z\\
+                 6z + (6)x + (6)y = 30 + 3x - 3y \\
+                1y + (1)z + x = 6 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -1784,9 +1784,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 4x + 4y + 2z = 24 + 2y-4z\\
-                 -3z + -3x + -3y = -18 + 3x - 3y \\
-                -1y + -1z + x = -3 + z - -1x
+<p><span class="math display">\[\begin{cases} 4x + (4)y + 2z = 24 + 2y-(4)z\\
+                 -3z + (-3)x + (-3)y = -18 + 3x - 3y \\
+                -1y + (-1)z + x = -3 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -1888,9 +1888,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = 36 + 2y-6z\\
-                 -6z + -6x + -6y = -33 + 3x - 3y \\
-                -1y + -1z + x = -3 + z - -1x
+<p><span class="math display">\[\begin{cases} 6x + (6)y + 2z = 36 + 2y-(6)z\\
+                 -6z + (-6)x + (-6)y = -33 + 3x - 3y \\
+                -1y + (-1)z + x = -3 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -1992,9 +1992,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = 0 + 2y-0z\\
-                 -3z + -3x + -3y = -18 + 3x - 3y \\
-                1y + 1z + x = 1 + z - 1x
+<p><span class="math display">\[\begin{cases} 0x + (0)y + 2z = 0 + 2y-(0)z\\
+                 -3z + (-3)x + (-3)y = -18 + 3x - 3y \\
+                1y + (1)z + x = 1 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -2096,9 +2096,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 2x + 2y + 2z = -4 + 2y-2z\\
-                 -6z + -6x + -6y = 3 + 3x - 3y \\
-                1y + 1z + x = 3 + z - 1x
+<p><span class="math display">\[\begin{cases} 2x + (2)y + 2z = -4 + 2y-(2)z\\
+                 -6z + (-6)x + (-6)y = 3 + 3x - 3y \\
+                1y + (1)z + x = 3 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -2200,9 +2200,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 2x + 2y + 2z = 14 + 2y-2z\\
-                 -6z + -6x + -6y = -30 + 3x - 3y \\
-                1y + 1z + x = 0 + z - 1x
+<p><span class="math display">\[\begin{cases} 2x + (2)y + 2z = 14 + 2y-(2)z\\
+                 -6z + (-6)x + (-6)y = -30 + 3x - 3y \\
+                1y + (1)z + x = 0 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -2304,9 +2304,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = -4 + 2y-0z\\
-                 -3z + -3x + -3y = 12 + 3x - 3y \\
-                1y + 1z + x = -4 + z - 1x
+<p><span class="math display">\[\begin{cases} 0x + (0)y + 2z = -4 + 2y-(0)z\\
+                 -3z + (-3)x + (-3)y = 12 + 3x - 3y \\
+                1y + (1)z + x = -4 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -2408,9 +2408,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = -4 + 2y-6z\\
-                 -6z + -6x + -6y = -3 + 3x - 3y \\
-                -1y + -1z + x = 4 + z - -1x
+<p><span class="math display">\[\begin{cases} 6x + (6)y + 2z = -4 + 2y-(6)z\\
+                 -6z + (-6)x + (-6)y = -3 + 3x - 3y \\
+                -1y + (-1)z + x = 4 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -2512,9 +2512,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = 2 + 2y-0z\\
-                 -3z + -3x + -3y = 9 + 3x - 3y \\
-                1y + 1z + x = -3 + z - 1x
+<p><span class="math display">\[\begin{cases} 0x + (0)y + 2z = 2 + 2y-(0)z\\
+                 -3z + (-3)x + (-3)y = 9 + 3x - 3y \\
+                1y + (1)z + x = -3 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -2616,9 +2616,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} -6x + -6y + 2z = -4 + 2y--6z\\
-                 6z + 6x + 6y = 3 + 3x - 3y \\
-                1y + 1z + x = -2 + z - 1x
+<p><span class="math display">\[\begin{cases} -6x + (-6)y + 2z = -4 + 2y-(-6)z\\
+                 6z + (6)x + (6)y = 3 + 3x - 3y \\
+                1y + (1)z + x = -2 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -2720,9 +2720,9 @@ True.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = -16 + 2y-6z\\
-                 -6z + -6x + -6y = 15 + 3x - 3y \\
-                -1y + -1z + x = 4 + z - -1x
+<p><span class="math display">\[\begin{cases} 6x + (6)y + 2z = -16 + 2y-(6)z\\
+                 -6z + (-6)x + (-6)y = 15 + 3x - 3y \\
+                -1y + (-1)z + x = 4 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -2824,9 +2824,9 @@ True.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 2x + 2y + 2z = 16 + 2y-2z\\
-                 -6z + -6x + -6y = -39 + 3x - 3y \\
-                1y + 1z + x = 4 + z - 1x
+<p><span class="math display">\[\begin{cases} 2x + (2)y + 2z = 16 + 2y-(2)z\\
+                 -6z + (-6)x + (-6)y = -39 + 3x - 3y \\
+                1y + (1)z + x = 4 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -2928,9 +2928,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 2x + 2y + 2z = 18 + 2y-2z\\
-                 -6z + -6x + -6y = -48 + 3x - 3y \\
-                1y + 1z + x = 4 + z - 1x
+<p><span class="math display">\[\begin{cases} 2x + (2)y + 2z = 18 + 2y-(2)z\\
+                 -6z + (-6)x + (-6)y = -48 + 3x - 3y \\
+                1y + (1)z + x = 4 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -3032,9 +3032,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = -22 + 2y-6z\\
-                 -6z + -6x + -6y = 24 + 3x - 3y \\
-                -1y + -1z + x = 4 + z - -1x
+<p><span class="math display">\[\begin{cases} 6x + (6)y + 2z = -22 + 2y-(6)z\\
+                 -6z + (-6)x + (-6)y = 24 + 3x - 3y \\
+                -1y + (-1)z + x = 4 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -3136,9 +3136,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = -4 + 2y-0z\\
-                 -3z + -3x + -3y = 18 + 3x - 3y \\
-                1y + 1z + x = -5 + z - 1x
+<p><span class="math display">\[\begin{cases} 0x + (0)y + 2z = -4 + 2y-(0)z\\
+                 -3z + (-3)x + (-3)y = 18 + 3x - 3y \\
+                1y + (1)z + x = -5 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -3240,9 +3240,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} -6x + -6y + 2z = -2 + 2y--6z\\
-                 6z + 6x + 6y = 6 + 3x - 3y \\
-                1y + 1z + x = -5 + z - 1x
+<p><span class="math display">\[\begin{cases} -6x + (-6)y + 2z = -2 + 2y-(-6)z\\
+                 6z + (6)x + (6)y = 6 + 3x - 3y \\
+                1y + (1)z + x = -5 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -3344,9 +3344,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = -2 + 2y-0z\\
-                 -3z + -3x + -3y = -15 + 3x - 3y \\
-                1y + 1z + x = 6 + z - 1x
+<p><span class="math display">\[\begin{cases} 0x + (0)y + 2z = -2 + 2y-(0)z\\
+                 -3z + (-3)x + (-3)y = -15 + 3x - 3y \\
+                1y + (1)z + x = 6 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -3448,9 +3448,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = 0 + 2y-0z\\
-                 -3z + -3x + -3y = -24 + 3x - 3y \\
-                1y + 1z + x = 9 + z - 1x
+<p><span class="math display">\[\begin{cases} 0x + (0)y + 2z = 0 + 2y-(0)z\\
+                 -3z + (-3)x + (-3)y = -24 + 3x - 3y \\
+                1y + (1)z + x = 9 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -3552,9 +3552,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} -2x + -2y + 2z = -12 + 2y--2z\\
-                 6z + 6x + 6y = 9 + 3x - 3y \\
-                -1y + -1z + x = 2 + z - -1x
+<p><span class="math display">\[\begin{cases} -2x + (-2)y + 2z = -12 + 2y-(-2)z\\
+                 6z + (6)x + (6)y = 9 + 3x - 3y \\
+                -1y + (-1)z + x = 2 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -3656,9 +3656,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 2x + 2y + 2z = 8 + 2y-2z\\
-                 -6z + -6x + -6y = -27 + 3x - 3y \\
-                1y + 1z + x = 3 + z - 1x
+<p><span class="math display">\[\begin{cases} 2x + (2)y + 2z = 8 + 2y-(2)z\\
+                 -6z + (-6)x + (-6)y = -27 + 3x - 3y \\
+                1y + (1)z + x = 3 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -3760,9 +3760,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = 8 + 2y-6z\\
-                 -6z + -6x + -6y = -3 + 3x - 3y \\
-                -1y + -1z + x = 0 + z - -1x
+<p><span class="math display">\[\begin{cases} 6x + (6)y + 2z = 8 + 2y-(6)z\\
+                 -6z + (-6)x + (-6)y = -3 + 3x - 3y \\
+                -1y + (-1)z + x = 0 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -3864,9 +3864,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} -6x + -6y + 2z = -24 + 2y--6z\\
-                 6z + 6x + 6y = 9 + 3x - 3y \\
-                1y + 1z + x = 1 + z - 1x
+<p><span class="math display">\[\begin{cases} -6x + (-6)y + 2z = -24 + 2y-(-6)z\\
+                 6z + (6)x + (6)y = 9 + 3x - 3y \\
+                1y + (1)z + x = 1 + z - (1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -3968,9 +3968,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 4x + 4y + 2z = -2 + 2y-4z\\
-                 -3z + -3x + -3y = -9 + 3x - 3y \\
-                -1y + -1z + x = 8 + z - -1x
+<p><span class="math display">\[\begin{cases} 4x + (4)y + 2z = -2 + 2y-(4)z\\
+                 -3z + (-3)x + (-3)y = -9 + 3x - 3y \\
+                -1y + (-1)z + x = 8 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>
@@ -4072,9 +4072,9 @@ False.
 <questiontext format="html">
 <text><![CDATA[<p>
 <p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
-<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = 20 + 2y-6z\\
-                 -6z + -6x + -6y = -21 + 3x - 3y \\
-                -1y + -1z + x = 1 + z - -1x
+<p><span class="math display">\[\begin{cases} 6x + (6)y + 2z = 20 + 2y-(6)z\\
+                 -6z + (-6)x + (-6)y = -21 + 3x - 3y \\
+                -1y + (-1)z + x = 1 + z - (-1)x
                 \end{cases}\]</span></p>
 </p>]]></text>
 </questiontext>

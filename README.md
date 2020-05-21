@@ -2,4 +2,4 @@
 exámenes de moodle para álgebgra lineal
 
 
-**Falta revisar SEL_matriz_infinitas y SEL_matriz_inconsistentes** 
+**TODO REVISADO Y SUBIDO 21/05/2020** 
