@@ -1,0 +1,73 @@
+```{r data generation, echo = FALSE, results = "hide"}
+m2l <- function(matr) {
+  
+  printmrow <- function(x) {
+    
+    ret <- paste(paste(x,collapse = " & "),"\\\\")
+    sprintf(ret)
+  }
+  
+  out <- apply(matr,1,printmrow)
+  out2 <- paste("\\begin{bmatrix}",paste(out,collapse=' '),"\\end{bmatrix}")
+  return(out2)
+}
+## parameters
+p <- sample(c(-3,3,-2,2,0,1),1)
+m <- p + 1
+u <- sample(seq(-3,3,1),1)
+v <- sample(seq(-3,3,1),1)
+w <- sample(seq(-3,3,1),1)
+##CALCULATIONS
+k = -2*p
+A_matrix = matrix(c(k,k-2,k+2, m-3, m+3, m, p+1, p, p-1), nrow = 3, byrow = T)
+cons = A_matrix %*% c(u, v, w)
+matrix_latex = cbind(A_matrix, cons)
+```
+
+Question
+========
+
+Suponga que la matriz $A$ (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( **SEL** ). En relación con el **SEL** que representa la matriz $A$, es correcto afirmar:
+
+$$ A = `r m2l(matrix_latex)`$$
+
+Answerlist
+----------
+* El **SEL** tiene 3 ecuaciones.
+* El **SEL** tiene 4 ecuaciones.
+* El **SEL** tiene 3 incógnitas.
+* El **SEL** tiene 4 incógnitas.
+* El sistema tiene única solución.
+* El sistema tiene infinitas soluciones.
+* El sistema es inconsistente.
+* Suponiendo que $x$ denota la primera incógnita, $y$ la segunda y $z$ la tercera, entonces la solución del **SEL** determina que: $y = `r v`$ y $z = `r w`$.
+* Suponiendo que $x$ denota la primera incógnita, $y$ la segunda y $z$ la tercera, entonces la tercera columna de $A$ es el vector de coeficientes de la indeterminada $z$.
+* La matriz $A$ está en forma escalonada reducida.
+* La primera columna de $A$ representa el vector de constantes.
+* La cuarta columna de $A$ representa el vector de constantes.
+
+ 
+Solution
+========
+
+Answerlist
+----------
+* True.
+* False.
+* True.
+* False.
+* True.
+* False.
+* False.
+* True.
+* True.
+* False.
+* False.
+* True.
+
+Meta-information
+================
+exname: matriz_SEL_inconsistente
+extype: mchoice
+exsolution: 101010011001
+exshuffle: 8

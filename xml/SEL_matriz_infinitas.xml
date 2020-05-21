@@ -1,0 +1,4171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/SEL_matriz_infinitas/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R01 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 4x + 4y + 2z = 0 + 2y-4z\\
+                 -3z + -3x + -3y = 12 + 3x - 3y \\
+                -1y + -1z + x = -4 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 6\)</span>, <span class="math inline">\(y= 0\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R02 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = 4 + 2y-6z\\
+                 -6z + -6x + -6y = -12 + 3x - 3y \\
+                -1y + -1z + x = 2 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -4\)</span>, <span class="math inline">\(y= 4\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R03 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} -2x + -2y + 2z = 18 + 2y--2z\\
+                 6z + 6x + 6y = -36 + 3x - 3y \\
+                -1y + -1z + x = 3 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 6\)</span>, <span class="math inline">\(y= 6\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R04 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} -2x + -2y + 2z = 10 + 2y--2z\\
+                 6z + 6x + 6y = -30 + 3x - 3y \\
+                -1y + -1z + x = 5 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -2\)</span>, <span class="math inline">\(y= 6\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R05 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 2x + 2y + 2z = 8 + 2y-2z\\
+                 -6z + -6x + -6y = -3 + 3x - 3y \\
+                1y + 1z + x = -3 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 4\)</span>, <span class="math inline">\(y= -2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R06 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} -2x + -2y + 2z = 14 + 2y--2z\\
+                 6z + 6x + 6y = -30 + 3x - 3y \\
+                -1y + -1z + x = 3 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 2\)</span>, <span class="math inline">\(y= 6\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R07 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = -8 + 2y-6z\\
+                 -6z + -6x + -6y = 6 + 3x - 3y \\
+                -1y + -1z + x = 2 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 0\)</span>, <span class="math inline">\(y= -4\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R08 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = 0 + 2y-0z\\
+                 -3z + -3x + -3y = 0 + 3x - 3y \\
+                1y + 1z + x = 0 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 2\)</span>, <span class="math inline">\(y= -4\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R09 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = 0 + 2y-6z\\
+                 -6z + -6x + -6y = -9 + 3x - 3y \\
+                -1y + -1z + x = 3 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -4\)</span>, <span class="math inline">\(y= 2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R10 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = 6 + 2y-0z\\
+                 -3z + -3x + -3y = -18 + 3x - 3y \\
+                1y + 1z + x = 3 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -6\)</span>, <span class="math inline">\(y= 6\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R11 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 2x + 2y + 2z = 6 + 2y-2z\\
+                 -6z + -6x + -6y = -6 + 3x - 3y \\
+                1y + 1z + x = -1 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -2\)</span>, <span class="math inline">\(y= 6\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R12 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 4x + 4y + 2z = 14 + 2y-4z\\
+                 -3z + -3x + -3y = 3 + 3x - 3y \\
+                -1y + -1z + x = -8 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 4\)</span>, <span class="math inline">\(y= -4\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R13 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 4x + 4y + 2z = -6 + 2y-4z\\
+                 -3z + -3x + -3y = -3 + 3x - 3y \\
+                -1y + -1z + x = 4 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -4\)</span>, <span class="math inline">\(y= -4\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R14 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = -4 + 2y-0z\\
+                 -3z + -3x + -3y = 18 + 3x - 3y \\
+                1y + 1z + x = -4 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 6\)</span>, <span class="math inline">\(y= -4\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R15 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 4x + 4y + 2z = -10 + 2y-4z\\
+                 -3z + -3x + -3y = 12 + 3x - 3y \\
+                -1y + -1z + x = 1 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 4\)</span>, <span class="math inline">\(y= 2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R16 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 4x + 4y + 2z = 12 + 2y-4z\\
+                 -3z + -3x + -3y = -3 + 3x - 3y \\
+                -1y + -1z + x = -5 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 0\)</span>, <span class="math inline">\(y= -6\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R17 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} -6x + -6y + 2z = -26 + 2y--6z\\
+                 6z + 6x + 6y = 21 + 3x - 3y \\
+                1y + 1z + x = 6 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -6\)</span>, <span class="math inline">\(y= 0\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R18 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 4x + 4y + 2z = 18 + 2y-4z\\
+                 -3z + -3x + -3y = -18 + 3x - 3y \\
+                -1y + -1z + x = -3 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -4\)</span>, <span class="math inline">\(y= 2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R19 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = 24 + 2y-6z\\
+                 -6z + -6x + -6y = -27 + 3x - 3y \\
+                -1y + -1z + x = -3 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -4\)</span>, <span class="math inline">\(y= 2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R20 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = 10 + 2y-0z\\
+                 -3z + -3x + -3y = -18 + 3x - 3y \\
+                1y + 1z + x = 1 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -4\)</span>, <span class="math inline">\(y= 6\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R21 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 2x + 2y + 2z = -4 + 2y-2z\\
+                 -6z + -6x + -6y = -3 + 3x - 3y \\
+                1y + 1z + x = 3 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 0\)</span>, <span class="math inline">\(y= -6\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R22 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 2x + 2y + 2z = 14 + 2y-2z\\
+                 -6z + -6x + -6y = -21 + 3x - 3y \\
+                1y + 1z + x = 0 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -2\)</span>, <span class="math inline">\(y= 4\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R23 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = 0 + 2y-0z\\
+                 -3z + -3x + -3y = 12 + 3x - 3y \\
+                1y + 1z + x = -4 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 4\)</span>, <span class="math inline">\(y= 0\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R24 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = -4 + 2y-6z\\
+                 -6z + -6x + -6y = -6 + 3x - 3y \\
+                -1y + -1z + x = 4 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -4\)</span>, <span class="math inline">\(y= -4\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R25 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = 0 + 2y-0z\\
+                 -3z + -3x + -3y = 9 + 3x - 3y \\
+                1y + 1z + x = -3 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 6\)</span>, <span class="math inline">\(y= -6\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R26 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} -6x + -6y + 2z = -4 + 2y--6z\\
+                 6z + 6x + 6y = 12 + 3x - 3y \\
+                1y + 1z + x = -2 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 4\)</span>, <span class="math inline">\(y= -4\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R27 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = -16 + 2y-6z\\
+                 -6z + -6x + -6y = 12 + 3x - 3y \\
+                -1y + -1z + x = 4 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 0\)</span>, <span class="math inline">\(y= -4\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R28 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 2x + 2y + 2z = 16 + 2y-2z\\
+                 -6z + -6x + -6y = -36 + 3x - 3y \\
+                1y + 1z + x = 4 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -4\)</span>, <span class="math inline">\(y= 0\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R29 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 2x + 2y + 2z = 18 + 2y-2z\\
+                 -6z + -6x + -6y = -39 + 3x - 3y \\
+                1y + 1z + x = 4 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -6\)</span>, <span class="math inline">\(y= 4\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R30 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = -22 + 2y-6z\\
+                 -6z + -6x + -6y = 21 + 3x - 3y \\
+                -1y + -1z + x = 4 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 2\)</span>, <span class="math inline">\(y= -4\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R31 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = -2 + 2y-0z\\
+                 -3z + -3x + -3y = 18 + 3x - 3y \\
+                1y + 1z + x = -5 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 6\)</span>, <span class="math inline">\(y= -2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R32 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} -6x + -6y + 2z = 6 + 2y--6z\\
+                 6z + 6x + 6y = 6 + 3x - 3y \\
+                1y + 1z + x = -5 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 6\)</span>, <span class="math inline">\(y= -2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R33 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = -2 + 2y-0z\\
+                 -3z + -3x + -3y = -15 + 3x - 3y \\
+                1y + 1z + x = 6 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -4\)</span>, <span class="math inline">\(y= -4\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R34 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 0x + 0y + 2z = -2 + 2y-0z\\
+                 -3z + -3x + -3y = -24 + 3x - 3y \\
+                1y + 1z + x = 9 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -6\)</span>, <span class="math inline">\(y= -6\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R35 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} -2x + -2y + 2z = -4 + 2y--2z\\
+                 6z + 6x + 6y = 0 + 3x - 3y \\
+                -1y + -1z + x = 2 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -4\)</span>, <span class="math inline">\(y= 0\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R36 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 2x + 2y + 2z = 8 + 2y-2z\\
+                 -6z + -6x + -6y = -21 + 3x - 3y \\
+                1y + 1z + x = 3 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -4\)</span>, <span class="math inline">\(y= 2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R37 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = 0 + 2y-6z\\
+                 -6z + -6x + -6y = 0 + 3x - 3y \\
+                -1y + -1z + x = 0 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= 0\)</span>, <span class="math inline">\(y= 0\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R38 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} -6x + -6y + 2z = 16 + 2y--6z\\
+                 6z + 6x + 6y = -27 + 3x - 3y \\
+                1y + 1z + x = 1 + z - 1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -4\)</span>, <span class="math inline">\(y= 6\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R39 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 4x + 4y + 2z = -10 + 2y-4z\\
+                 -3z + -3x + -3y = -9 + 3x - 3y \\
+                -1y + -1z + x = 8 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -6\)</span>, <span class="math inline">\(y= 4\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R40 Q1 : plantillas_rmd_SEL_matriz_infinitas </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Considere el siguiente sistema de ecuaciones lineales ( <strong>SEL</strong> ):</p>
+<p><span class="math display">\[\begin{cases} 6x + 6y + 2z = 8 + 2y-6z\\
+                 -6z + -6x + -6y = -15 + 3x - 3y \\
+                -1y + -1z + x = 1 + z - -1x
+                \end{cases}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Sea <span class="math inline">\(A\)</span> la matriz de coeficientes del <strong>SEL</strong>, <span class="math inline">\(b\)</span> su vector de constantes y <span class="math inline">\(X\)</span> su vector de incógnitas, entonces el producto matricial <span class="math inline">\(AX\)</span> da como resultado una matriz <span class="math inline">\(3\times 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene exactamente 3 soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene soluciones tales que <span class="math inline">\(x= -4\)</span>, <span class="math inline">\(y= 2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

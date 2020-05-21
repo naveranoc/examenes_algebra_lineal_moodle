@@ -1,0 +1,66 @@
+```{r data generation, echo = FALSE, results = "hide"}
+m2l <- function(matr) {
+  
+  printmrow <- function(x) {
+    
+    ret <- paste(paste(x,collapse = " & "),"\\\\")
+    sprintf(ret)
+  }
+  
+  out <- apply(matr,1,printmrow)
+  out2 <- paste("\\begin{bmatrix}",paste(out,collapse=' '),"\\end{bmatrix}")
+  return(out2)
+}
+## parameters
+p <- sample(c(-1,1),1)
+m <- sample(c(-3,-6,6),1)
+u <- sample(seq(-3,3,1),1)
+v <- sample(seq(-3,3,1),1)
+w <- sample(seq(-3,3,1),1)
+##CALCULATIONS
+k = (-6*p-2*m)/3
+A_matrix = matrix(c(k,k-2,k+2, m-3, m+3, m, p+1, p, p-1), nrow = 3, byrow = T)
+cons = A_matrix %*% c(u, v, w)
+a <- cons[1];b <- cons[2]; c <- cons[3]
+matrix_latex = cbind(A_matrix, cons)
+```
+
+Question
+========
+
+Considere el siguiente sistema de ecuaciones lineales ( **SEL** ):
+
+$$\begin{cases} `r k`x + `r k`y + 2z = `r a` + 2y-`r k`z\\
+                 `r m`z + `r m`x + `r m`y = `r b` + 3x - 3y \\
+                `r p`y + `r p`z + x = `r c` + z - `r p`x
+                \end{cases}$$
+
+Answerlist
+----------
+* El sistema tiene única solución.
+* El sistema tiene infinitas soluciones.
+* El sistema es inconsistente.
+* El sistema tiene exactamente 3 soluciones.
+* El sistema tiene soluciones tales que $x= `r -2*u`$, $y= `r -2*v`$.
+* Sea $A$ la matriz de coeficientes del **SEL**, $b$ su vector de constantes y $X$ su vector de incógnitas, entonces el producto matricial $AX$ da como resultado una matriz $3\times 3$.
+* Sea $A$ la matriz de coeficientes del **SEL**, $b$ su vector de constantes y $X$ su vector de incógnitas, entonces el producto matricial $AX$ da como resultado una matriz $3\times 1$.
+ 
+Solution
+========
+
+Answerlist
+----------
+* False.
+* True.
+* False.
+* False.
+* True.
+* False.
+* True.
+
+Meta-information
+================
+exname: SEL_matriz_infinitas
+extype: mchoice
+exsolution: 0100101
+exshuffle: 7

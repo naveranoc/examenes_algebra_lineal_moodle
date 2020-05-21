@@ -1,0 +1,4491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/matriz_SEL_unicas/Exercise 1</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R01 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 4 &amp; 2 &amp; 6 &amp; 4 \\ -6 &amp; 0 &amp; -3 &amp; 12 \\ 0 &amp; -1 &amp; -2 &amp; -4 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R02 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 2 &amp; 0 &amp; 4 &amp; 6 \\ -9 &amp; -3 &amp; -6 &amp; -6 \\ 2 &amp; 1 &amp; 0 &amp; -4 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R03 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 4 &amp; 2 &amp; 6 &amp; 10 \\ -6 &amp; 0 &amp; -3 &amp; -3 \\ 0 &amp; -1 &amp; -2 &amp; -1 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = -1\)</span> y <span class="math inline">\(z = 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R04 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} -2 &amp; -4 &amp; 0 &amp; -4 \\ 3 &amp; 9 &amp; 6 &amp; 9 \\ 0 &amp; -1 &amp; -2 &amp; -3 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R05 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 0 &amp; -2 &amp; 2 &amp; 2 \\ -6 &amp; 0 &amp; -3 &amp; -21 \\ 2 &amp; 1 &amp; 0 &amp; 5 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R06 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 0 &amp; -2 &amp; 2 &amp; 0 \\ -6 &amp; 0 &amp; -3 &amp; 0 \\ 2 &amp; 1 &amp; 0 &amp; 0 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = 2\)</span> y <span class="math inline">\(z = 2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R07 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 2 &amp; 0 &amp; 4 &amp; -14 \\ -9 &amp; -3 &amp; -6 &amp; 36 \\ 2 &amp; 1 &amp; 0 &amp; -5 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = 1\)</span> y <span class="math inline">\(z = -2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R08 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 6 &amp; 4 &amp; 8 &amp; 22 \\ -9 &amp; -3 &amp; -6 &amp; -18 \\ 0 &amp; -1 &amp; -2 &amp; 1 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = -3\)</span> y <span class="math inline">\(z = 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R09 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 4 &amp; 2 &amp; 6 &amp; -26 \\ -6 &amp; 0 &amp; -3 &amp; 27 \\ 0 &amp; -1 &amp; -2 &amp; 4 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R10 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 0 &amp; -2 &amp; 2 &amp; -10 \\ -6 &amp; 0 &amp; -3 &amp; 9 \\ 2 &amp; 1 &amp; 0 &amp; -2 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = -2\)</span> y <span class="math inline">\(z = -3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R11 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 2 &amp; 0 &amp; 4 &amp; 8 \\ -9 &amp; -3 &amp; -6 &amp; -27 \\ 2 &amp; 1 &amp; 0 &amp; 3 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R12 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 4 &amp; 2 &amp; 6 &amp; 10 \\ -6 &amp; 0 &amp; -3 &amp; -3 \\ 0 &amp; -1 &amp; -2 &amp; -5 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = 3\)</span> y <span class="math inline">\(z = 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R13 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 4 &amp; 2 &amp; 6 &amp; -2 \\ -6 &amp; 0 &amp; -3 &amp; 15 \\ 0 &amp; -1 &amp; -2 &amp; -2 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R14 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 0 &amp; -2 &amp; 2 &amp; -8 \\ -6 &amp; 0 &amp; -3 &amp; 6 \\ 2 &amp; 1 &amp; 0 &amp; -3 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = -3\)</span> y <span class="math inline">\(z = -2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R15 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 0 &amp; -2 &amp; 2 &amp; 0 \\ -6 &amp; 0 &amp; -3 &amp; -18 \\ 2 &amp; 1 &amp; 0 &amp; 1 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = -3\)</span> y <span class="math inline">\(z = 2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R16 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} -6 &amp; -8 &amp; -4 &amp; -28 \\ 3 &amp; 9 &amp; 6 &amp; 15 \\ 2 &amp; 1 &amp; 0 &amp; 2 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = -2\)</span> y <span class="math inline">\(z = 0\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R17 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 2 &amp; 0 &amp; 4 &amp; 2 \\ -9 &amp; -3 &amp; -6 &amp; 12 \\ 2 &amp; 1 &amp; 0 &amp; -3 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = 3\)</span> y <span class="math inline">\(z = 2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R18 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 2 &amp; 0 &amp; 4 &amp; 6 \\ -9 &amp; -3 &amp; -6 &amp; 6 \\ 2 &amp; 1 &amp; 0 &amp; -6 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = 0\)</span> y <span class="math inline">\(z = 3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R19 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 6 &amp; 4 &amp; 8 &amp; -4 \\ -9 &amp; -3 &amp; -6 &amp; -3 \\ 0 &amp; -1 &amp; -2 &amp; 9 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R20 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} -2 &amp; -4 &amp; 0 &amp; -12 \\ 3 &amp; 9 &amp; 6 &amp; 3 \\ 0 &amp; -1 &amp; -2 &amp; 3 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = 1\)</span> y <span class="math inline">\(z = -2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R21 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} -6 &amp; -8 &amp; -4 &amp; -40 \\ 3 &amp; 9 &amp; 6 &amp; 33 \\ 2 &amp; 1 &amp; 0 &amp; 3 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R22 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 2 &amp; 0 &amp; 4 &amp; 18 \\ -9 &amp; -3 &amp; -6 &amp; -48 \\ 2 &amp; 1 &amp; 0 &amp; 7 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R23 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 0 &amp; -2 &amp; 2 &amp; -4 \\ -6 &amp; 0 &amp; -3 &amp; 18 \\ 2 &amp; 1 &amp; 0 &amp; -5 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = 1\)</span> y <span class="math inline">\(z = 0\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R24 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} -6 &amp; -8 &amp; -4 &amp; -34 \\ 3 &amp; 9 &amp; 6 &amp; 30 \\ 2 &amp; 1 &amp; 0 &amp; 4 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R25 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 0 &amp; -2 &amp; 2 &amp; 2 \\ -6 &amp; 0 &amp; -3 &amp; 9 \\ 2 &amp; 1 &amp; 0 &amp; -3 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R26 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} -2 &amp; -4 &amp; 0 &amp; -6 \\ 3 &amp; 9 &amp; 6 &amp; -12 \\ 0 &amp; -1 &amp; -2 &amp; 9 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = -3\)</span> y <span class="math inline">\(z = -3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R27 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} -6 &amp; -8 &amp; -4 &amp; -8 \\ 3 &amp; 9 &amp; 6 &amp; -3 \\ 2 &amp; 1 &amp; 0 &amp; -3 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = -3\)</span> y <span class="math inline">\(z = -2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R28 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} -6 &amp; -8 &amp; -4 &amp; -24 \\ 3 &amp; 9 &amp; 6 &amp; 9 \\ 2 &amp; 1 &amp; 0 &amp; 1 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = -3\)</span> y <span class="math inline">\(z = -1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R29 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} -2 &amp; -4 &amp; 0 &amp; -10 \\ 3 &amp; 9 &amp; 6 &amp; 0 \\ 0 &amp; -1 &amp; -2 &amp; 4 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = 0\)</span> y <span class="math inline">\(z = -2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R30 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 0 &amp; -2 &amp; 2 &amp; -10 \\ -6 &amp; 0 &amp; -3 &amp; 9 \\ 2 &amp; 1 &amp; 0 &amp; 0 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = 0\)</span> y <span class="math inline">\(z = -3\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-16.66667" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R31 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 2 &amp; 0 &amp; 4 &amp; -2 \\ -9 &amp; -3 &amp; -6 &amp; 6 \\ 2 &amp; 1 &amp; 0 &amp; -3 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R32 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 6 &amp; 4 &amp; 8 &amp; 4 \\ -9 &amp; -3 &amp; -6 &amp; -9 \\ 0 &amp; -1 &amp; -2 &amp; 2 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = 2\)</span> y <span class="math inline">\(z = -2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R33 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} -2 &amp; -4 &amp; 0 &amp; -6 \\ 3 &amp; 9 &amp; 6 &amp; 12 \\ 0 &amp; -1 &amp; -2 &amp; -2 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R34 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} -2 &amp; -4 &amp; 0 &amp; -10 \\ 3 &amp; 9 &amp; 6 &amp; 18 \\ 0 &amp; -1 &amp; -2 &amp; -1 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-14.28571" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-14.28571" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-14.28571" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = -1\)</span> y <span class="math inline">\(z = 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-14.28571" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-14.28571" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-14.28571" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-14.28571" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R35 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} -2 &amp; -4 &amp; 0 &amp; -6 \\ 3 &amp; 9 &amp; 6 &amp; 6 \\ 0 &amp; -1 &amp; -2 &amp; -2 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R36 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 0 &amp; -2 &amp; 2 &amp; 2 \\ -6 &amp; 0 &amp; -3 &amp; -9 \\ 2 &amp; 1 &amp; 0 &amp; 1 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="20" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R37 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 0 &amp; -2 &amp; 2 &amp; 2 \\ -6 &amp; 0 &amp; -3 &amp; -3 \\ 2 &amp; 1 &amp; 0 &amp; 1 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R38 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 4 &amp; 2 &amp; 6 &amp; 14 \\ -6 &amp; 0 &amp; -3 &amp; -9 \\ 0 &amp; -1 &amp; -2 &amp; -3 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = 1\)</span> y <span class="math inline">\(z = 1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R39 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} -2 &amp; -4 &amp; 0 &amp; -8 \\ 3 &amp; 9 &amp; 6 &amp; 21 \\ 0 &amp; -1 &amp; -2 &amp; -3 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La primera columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = -1\)</span> y <span class="math inline">\(z = 2\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+El sistema es inconsistente.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="25" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces la tercera columna de <span class="math inline">\(A\)</span> es el vector de coeficientes de la indeterminada <span class="math inline">\(z\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> R40 Q1 : plantillas_rmd_matriz_SEL_inconsistentes </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Suponga que la matriz <span class="math inline">\(A\)</span> (que aparece mas abajo) corresponde a la matriz aumentada de un sistema de ecuaciones lineales ( <strong>SEL</strong> ). En relación con el <strong>SEL</strong> que representa la matriz <span class="math inline">\(A\)</span>, es correcto afirmar:</p>
+<p><span class="math display">\[ A = \begin{bmatrix} 0 &amp; -2 &amp; 2 &amp; -6 \\ -6 &amp; 0 &amp; -3 &amp; 15 \\ 2 &amp; 1 &amp; 0 &amp; -4 \\ \end{bmatrix}\]</span></p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>1</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene única solución.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+La cuarta columna de <span class="math inline">\(A\)</span> representa el vector de constantes.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+La matriz <span class="math inline">\(A\)</span> está en forma escalonada reducida.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 4 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 incógnitas.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+El sistema tiene infinitas soluciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+El <strong>SEL</strong> tiene 3 ecuaciones.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-20" format="html">
+<text><![CDATA[<p>
+Suponiendo que <span class="math inline">\(x\)</span> denota la primera incógnita, <span class="math inline">\(y\)</span> la segunda y <span class="math inline">\(z\)</span> la tercera, entonces una solución del <strong>SEL</strong> determina que: <span class="math inline">\(y = 0\)</span> y <span class="math inline">\(z = -1\)</span>.
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>
