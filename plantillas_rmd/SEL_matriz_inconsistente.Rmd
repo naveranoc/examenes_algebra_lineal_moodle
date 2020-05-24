@@ -21,7 +21,7 @@ w <- sample(seq(-3,3,1),1)
 ##CALCULATIONS
 k = (-6*p-2*m)/3
 A_matrix = matrix(c(k,k-2,k+2, m-3, m+3, m, p+1, p, p-1), nrow = 3, byrow = T)
-a = A_matrix[1,] %*% c(u, 2, w)
+a = A_matrix[1,] %*% c(u, 2 , w)
 b = A_matrix[2,] %*% c(u, 1, w)
 c = A_matrix[3,] %*% c(u, v, w)
 matrix_latex = cbind(A_matrix, c(a,b,c))
